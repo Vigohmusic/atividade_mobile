@@ -1,17 +1,46 @@
-# flutter_application_1
+# 🎣 Pesca App
 
-A new Flutter project.
+Aplicativo desenvolvido em Flutter como atividade acadêmica, com o objetivo de criar a primeira tela de um app com tema livre.
 
-## Getting Started
+## 📱 Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O **Pesca App** é um aplicativo com temática de pesca, pensado para auxiliar pescadores em suas atividades.  
+Nesta primeira versão, foi desenvolvida a tela inicial do aplicativo.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Funcionalidades da tela
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Tela de boas-vindas  
+- Ícone representando pesca  
+- Exibição de opções principais:  
+  - Melhores pontos de pesca  
+  - Previsão do tempo  
+  - Dicas e equipamentos  
+- Botão de entrada  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias utilizadas
+
+- Flutter  
+- Dart  
+- Material Design  
+
+## ▶️ Como executar o projeto
+
+1. Clone o repositório:
+
+git clone https://github.com/seu-usuario/pesca_app.git
+
+2. Acesse a pasta do projeto:
+
+cd pesca_app
+
+3. Execute o projeto:
+
+flutter run
+
+## 📚 Objetivo acadêmico
+
+Este projeto foi desenvolvido com o objetivo de praticar:
+
+- Criação de projetos Flutter  
+- Estruturação de layout com widgets  
+- Organização de interface gráfica  
